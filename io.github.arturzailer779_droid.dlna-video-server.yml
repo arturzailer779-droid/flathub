@@ -39,7 +39,7 @@ modules:
       - type: git
         url: https://github.com/dirkvdb/ffmpegthumbnailer.git
         tag: v2.4.2
-        commit: e6ae7ca53787ff9a665b4f7e1285ddc52d792524
+        commit: f54fc078d4b90fd5a2299e8bfd9a18423002be94
   - name: minidlna
     buildsystem: autotools
     config-opts:
